@@ -1,0 +1,12 @@
+:root {
+    --vp-c-brand-1: #22c55e;
+    --vp-c-brand-2: #16a34a;
+    --vp-c-brand-3: #4ade80;
+    --vp-nav-logo-height: 20px;
+    --vp-home-hero-name-color: transparent;
+    --vp-home-hero-name-background: -webkit-linear-gradient(0deg, #16a34a,#16a34a,#c8de4a);
+}
+
+.VPSidebarItem.level-0 {
+    padding-bottom: 12px !important;
+}

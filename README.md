@@ -1,14 +1,12 @@
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="105" style="padding-right: 0; vertical-align: middle;">
-      <img src="docs/public/Desktop.png" alt="BotGem Desktop Icon" width="80" height="80">
-    </td>
-    <td valign="middle" style="padding-left: 5px;">
-      <div style="font-size: 28px; font-weight: bold; margin-top: -5px;"><a href="https://botgem.com">BotGem</a></div>
-      <div style="font-size: 18px; margin-top: -2px;">Your AI-powered toolbox for tomorrow</div>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; align-items: center;">
+  <div style="padding-right: 10px;">
+    <img src="docs/public/Desktop.png" alt="BotGem Desktop Icon" width="80" height="80">
+  </div>
+  <div>
+    <div style="font-size: 28px; font-weight: bold;"><a href="https://botgem.com">BotGem</a></div>
+    <div style="font-size: 18px;">Your AI-powered toolbox for tomorrow</div>
+  </div>
+</div>
 
 This repository contains the official documentation for [BotGem](https://botgem.com).
 

@@ -10,6 +10,9 @@ export default defineConfig({
     ['link', { rel: "icon", type: "image/png", sizes: "16x16", href: "favicon-16x16.png" }],
   ],
   themeConfig: {
+    search: {
+      provider: 'local'
+    },
     logo: '/Letter B.png',
     nav: [
       { text: 'Home', link: process.env.NODE_ENV === 'production' ? 'https://botgem.com' : 'http://localhost:3003', target: "_self", noIcon: true, },

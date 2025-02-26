@@ -1,10 +1,11 @@
 # [BotGem](https://botgem.com) Documentation
+### Your AI-powered toolbox for tomorrow
 
 <div align="center">
   <img src="docs/public/Desktop.png" alt="BotGem Desktop Icon" width="128" height="128">
 </div>
 
-This repository contains the official documentation for [BotGem](https://botgem.com), your AI-powered toolbox for tomorrow.
+This repository contains the official documentation for [BotGem](https://botgem.com).
 
 ## Overview
 

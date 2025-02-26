@@ -1,7 +1,7 @@
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td width="85" style="padding-right: 0; vertical-align: middle;">
-      <img style="margin-left: -15px;" src="docs/public/Desktop.png" alt="BotGem Desktop Icon" width="80" height="80">
+      <img src="docs/public/Desktop.png" alt="BotGem Desktop Icon" width="80" height="80">
     </td>
     <td valign="middle" style="padding-left: 5px;">
       <div style="font-size: 28px; font-weight: bold; margin-top: -5px;"><a href="https://botgem.com">BotGem</a></div>

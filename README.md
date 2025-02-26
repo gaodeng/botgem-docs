@@ -1,9 +1,14 @@
-# [BotGem](https://botgem.com) Documentation
-### Your AI-powered toolbox for tomorrow
-
-<div align="center">
-  <img src="docs/public/Desktop.png" alt="BotGem Desktop Icon" width="128" height="128">
-</div>
+<table border="0" cellspacing="0" cellpadding="0" style="margin-left: -15px;">
+  <tr>
+    <td width="85" style="padding-right: 0; vertical-align: middle;">
+      <img src="docs/public/Desktop.png" alt="BotGem Desktop Icon" width="80" height="80">
+    </td>
+    <td valign="middle" style="padding-left: 5px;">
+      <div style="font-size: 28px; font-weight: bold; margin-top: -5px;"><a href="https://botgem.com">BotGem</a></div>
+      <div style="font-size: 18px; margin-top: -2px;">Your AI-powered toolbox for tomorrow</div>
+    </td>
+  </tr>
+</table>
 
 This repository contains the official documentation for [BotGem](https://botgem.com).
 
@@ -77,10 +82,6 @@ The documentation is available in:
 ## Contributing
 
 Contributions to improve the documentation are welcome. Please feel free to submit a pull request.
-
-## License
-
-[Specify the license here]
 
 ## Contact
 

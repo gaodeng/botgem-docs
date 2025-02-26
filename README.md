@@ -1,10 +1,10 @@
-# BotGem Documentation
+# [BotGem](https://botgem.com) Documentation
 
-This repository contains the official documentation for BotGem, your AI-powered toolbox for tomorrow.
+This repository contains the official documentation for [BotGem](https://botgem.com), your AI-powered toolbox for tomorrow.
 
 ## Overview
 
-BotGem is a versatile application that provides AI-powered tools to enhance productivity and creativity. This documentation site is built with [VitePress](https://vitepress.dev/) and serves as a comprehensive resource for users to learn about BotGem's features, integrations, and capabilities.
+[BotGem](https://botgem.com) is a versatile application that provides AI-powered tools to enhance productivity and creativity. This documentation site is built with [VitePress](https://vitepress.dev/) and serves as a comprehensive resource for users to learn about [BotGem](https://botgem.com)'s features, integrations, and capabilities.
 
 The official documentation is deployed and accessible at [docs.botgem.com](https://docs.botgem.com).
 

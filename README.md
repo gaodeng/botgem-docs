@@ -6,6 +6,8 @@ This repository contains the official documentation for BotGem, your AI-powered 
 
 BotGem is a versatile application that provides AI-powered tools to enhance productivity and creativity. This documentation site is built with [VitePress](https://vitepress.dev/) and serves as a comprehensive resource for users to learn about BotGem's features, integrations, and capabilities.
 
+The official documentation is deployed and accessible at [docs.botgem.com](https://docs.botgem.com).
+
 ## Getting Started
 
 ### Prerequisites
@@ -46,6 +48,10 @@ To preview the production build locally:
 ```bash
 npm run docs:preview
 ```
+
+## Deployment
+
+The documentation is officially deployed at [docs.botgem.com](https://docs.botgem.com). After building the site with `npm run docs:build`, the generated static files in the `docs/.vitepress/dist` directory can be deployed to your hosting platform of choice.
 
 ## Documentation Structure
 

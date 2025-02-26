@@ -1,12 +1,6 @@
-<div style="display: flex; align-items: center;">
-  <div style="padding-right: 10px;">
-    <img src="docs/public/Desktop.png" alt="BotGem Desktop Icon" width="80" height="80">
-  </div>
-  <div>
-    <div style="font-size: 28px; font-weight: bold;"><a href="https://botgem.com">BotGem</a></div>
-    <div style="font-size: 18px;">Your AI-powered toolbox for tomorrow</div>
-  </div>
-</div>
+
+<a href="https://botgem.com"><img src="docs/public/Desktop.png" width="100" height="100" alt="BotGem Desktop Icon"></a>
+# BotGem Documentation
 
 This repository contains the official documentation for [BotGem](https://botgem.com).
 

@@ -1,6 +1,6 @@
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td width="85" style="padding-right: 0; vertical-align: middle;">
+    <td width="105" style="padding-right: 0; vertical-align: middle;">
       <img src="docs/public/Desktop.png" alt="BotGem Desktop Icon" width="80" height="80">
     </td>
     <td valign="middle" style="padding-left: 5px;">

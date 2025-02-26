@@ -1,6 +1,5 @@
-<div align="center">
-  <a href="https://botgem.com"><img src="docs/public/Desktop.png" width="100" height="100" alt="BotGem Desktop Icon"></a>
-</div>
+
+<a href="https://botgem.com"><img src="docs/public/Desktop.png" width="100" height="100" alt="BotGem Desktop Icon"></a>
 
 # BotGem Documentation
 

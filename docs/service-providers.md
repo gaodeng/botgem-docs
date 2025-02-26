@@ -1,6 +1,7 @@
 ### How to Enable Extended Thinking Mode for Claude 3.7 Sonnet
 
-![Claude 3.7 Sonnet Settings Interface](/claude-3.7-sonnet.png)
+![Claude 3.7 Sonnet Settings Interface](/claude-3.7-sonnet.png){.light-only}
+![Claude 3.7 Sonnet Settings Interface](/claude-3.7-sonnet-dark.png){.dark-only}
 
 You can enable Extended thinking mode in the chat window by following these steps:
 

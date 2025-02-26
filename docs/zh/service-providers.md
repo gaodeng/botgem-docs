@@ -1,6 +1,7 @@
 ### 如何开启 Claude 3.7 Sonnet 的 Extended thinking mode (思考模式)
 
-![Claude 3.7 Sonnet 设置界面](/claude-3.7-sonnet.png)
+![Claude 3.7 Sonnet 设置界面](/claude-3.7-sonnet.png){.light-only}
+![Claude 3.7 Sonnet 设置界面](/claude-3.7-sonnet-dark.png){.dark-only}
 
 在对话窗口中，您可以通过以下步骤开启 Extended thinking mode：
 

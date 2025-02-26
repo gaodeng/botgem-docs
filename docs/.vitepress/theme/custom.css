@@ -10,3 +10,11 @@
 .VPSidebarItem.level-0 {
     padding-bottom: 12px !important;
 }
+
+html.dark .light-only {
+    display: none !important;
+}
+  
+html:not(.dark) .dark-only {
+    display: none !important;
+}

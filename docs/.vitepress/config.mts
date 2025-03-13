@@ -8,6 +8,9 @@ export default defineConfig({
     ['meta', { name: 'theme-color', content: '#eaefea' }],
     ['link', { rel: "icon", type: "image/png", sizes: "32x32", href: "favicon-32x32.png" }],
     ['link', { rel: "icon", type: "image/png", sizes: "16x16", href: "favicon-16x16.png" }],
+    ['link', { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css2?family=Contrail+One&display=swap' }],
+
+
   ],
   themeConfig: {
     search: {

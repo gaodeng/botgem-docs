@@ -52,7 +52,13 @@ export default defineConfig({
                   { text: 'Extended Thinking Mode', link: '/claude-extended-thinking' }
                 ]
               },
-              { text: 'Google (Gemini)', link: '/google-configuration' },
+              { 
+                text: 'Google (Gemini)', 
+                link: '/google-configuration',
+                items: [
+                  { text: 'Image Generation', link: '/gemini-image-generation' }
+                ]
+              },
               { text: 'Groq', link: '/groq-configuration' },
               { text: 'Azure OpenAI', link: '/azure-configuration' },
               { text: 'DeepSeek', link: '/deepseek-configuration' },
@@ -132,7 +138,13 @@ export default defineConfig({
                       { text: '扩展思考模式', link: '/zh/claude-extended-thinking' }
                     ]
                   },
-                  { text: 'Google (Gemini)', link: '/zh/google-configuration' },
+                  { 
+                    text: 'Google (Gemini)', 
+                    link: '/zh/google-configuration',
+                    items: [
+                      { text: '图像生成', link: '/zh/gemini-image-generation' }
+                    ]
+                  },
                   { text: 'Groq', link: '/zh/groq-configuration' },
                   { text: 'Azure OpenAI', link: '/zh/azure-configuration' },
                   { text: 'DeepSeek', link: '/zh/deepseek-configuration' },

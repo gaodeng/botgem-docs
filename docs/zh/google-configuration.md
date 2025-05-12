@@ -23,3 +23,9 @@
 
 ![Google Gemini 设置界面](/google-gemini.png){.light-only}
 ![Google Gemini 设置界面](/google-gemini-dark.png){.dark-only}
+
+## 高级功能
+
+### Gemini 2.0 Flash Experimental 图像生成
+
+Gemini 2.0 Flash Experimental 支持图像生成和编辑功能。要了解如何启用和使用这些功能，请参阅我们的 [Gemini 图像生成指南](/zh/gemini-image-generation)。

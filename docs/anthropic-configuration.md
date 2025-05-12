@@ -23,3 +23,9 @@ Once you have your API key, follow these steps to configure Claude in BotGem:
 
 ![Anthropic Claude Settings Interface](/anthropic-claude.png){.light-only}
 ![Anthropic Claude Settings Interface](/anthropic-claude-dark.png){.dark-only}
+
+## Advanced Features
+
+### Extended Thinking Mode for Claude 3.7 Sonnet
+
+Claude 3.7 Sonnet supports an Extended Thinking Mode that enhances its reasoning capabilities for complex tasks. To learn how to enable and use this feature, see our [Claude Extended Thinking Mode Guide](/claude-extended-thinking).

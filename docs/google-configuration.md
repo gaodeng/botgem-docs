@@ -23,3 +23,9 @@ Once you have your API key, follow these steps to configure Google AI in BotGem:
 
 ![Google Gemini Settings Interface](/google-gemini.png){.light-only}
 ![Google Gemini Settings Interface](/google-gemini-dark.png){.dark-only}
+
+## Advanced Features
+
+### Image Generation with Gemini 2.0 Flash Experimental
+
+Gemini 2.0 Flash Experimental supports image generation and editing capabilities. To learn how to enable and use these features, see our [Gemini Image Generation Guide](/gemini-image-generation).

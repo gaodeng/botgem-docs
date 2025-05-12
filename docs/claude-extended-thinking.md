@@ -1,3 +1,5 @@
+# Claude Extended Thinking Mode
+
 ### How to Enable Extended Thinking Mode for Claude 3.7 Sonnet
 
 ![Claude 3.7 Sonnet Settings Interface](/claude-3.7-sonnet.png){.light-only}

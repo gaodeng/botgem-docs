@@ -23,3 +23,9 @@
 
 ![Anthropic Claude 设置界面](/anthropic-claude.png){.light-only}
 ![Anthropic Claude 设置界面](/anthropic-claude-dark.png){.dark-only}
+
+## 高级功能
+
+### Claude 3.7 Sonnet 的扩展思考模式
+
+Claude 3.7 Sonnet 支持扩展思考模式，该模式可增强其处理复杂任务的推理能力。要了解如何启用和使用此功能，请参阅我们的 [扩展思考模式指南](/zh/claude-extended-thinking)。

@@ -1,21 +1,18 @@
-### 如何开启 Claude 3.7 Sonnet 的 Extended thinking mode (思考模式)
+# 广泛的 AI 服务提供商支持
 
-![Claude 3.7 Sonnet 设置界面](/claude-3.7-sonnet.png){.light-only}
-![Claude 3.7 Sonnet 设置界面](/claude-3.7-sonnet-dark.png){.dark-only}
+BotGem 集成了各种 AI 服务提供商，使您能够访问当前最强大的 AI 模型：
 
-在对话窗口中，您可以通过以下步骤开启 Extended thinking mode：
+- [OpenAI](/zh/openai-configuration) - GPT 系列模型
+- [Anthropic](/zh/anthropic-configuration) - Claude 系列模型
+- [Google](/zh/google-configuration) - Gemini 系列模型
+- [Groq](/zh/groq-configuration)
+- [Deepseek](/zh/deepseek-configuration)
+- [Volcengine](/zh/volcengine-configuration)
+- [Azure](/zh/azure-configuration) - OpenAI 系列模型
+- [Ollama](/zh/ollama) - 本地模型
+- [OpenAI 兼容服务](/zh/openai-compatible)
 
-1. 点击对话窗口右上角的**设置图标**
-2. 在设置面板中找到 **Parameters** 输入框
-3. 将以下配置复制到 **Parameters** 中：
+通过支持所有这些提供商及更多，BotGem 给您提供了无与伦比的灵活性，可以选择最适合您需求的 AI 模型。点击上面的任何提供商以查看其详细的配置指南。
 
-```json
-{
-  "max_tokens": 64000,
-  "thinking": {
-    "type": "enabled",
-    "budget_tokens": 16000
-  }
-}
-```
-@
+![Service Providers](/add-service.png){.light-only}
+![Service Providers](/add-service-dark.png){.dark-only}

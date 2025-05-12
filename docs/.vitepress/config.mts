@@ -92,7 +92,7 @@ export default defineConfig({
       label: 'English',
       lang: 'en'
     },
-    zh: {
+      zh: {
       label: '中文',
       lang: 'zh',
       link: '/zh',
@@ -106,19 +106,19 @@ export default defineConfig({
             target: "_self",
             noIcon: true,
           },
-          { text: '常见问题', link: '/faq' }
+          { text: '常见问题', link: '/zh/faq' }
         ],
         sidebar: [
           {
-            text: 'GET STARTED',
+            text: '开始使用',
             collapsed: false,
             items: [
-              { text: 'Introduction', link: '/introduction' },
-              { text: 'Quickstart', link: '/quickstart' }
+              { text: '介绍', link: '/zh/introduction' },
+              { text: '快速入门', link: '/zh/quickstart' }
             ]
           },
           {
-            text: 'GUIDES',
+            text: '指南',
             items: [
               { 
                 text: 'AI 服务提供商', 
@@ -136,9 +136,8 @@ export default defineConfig({
                   { text: 'Groq', link: '/zh/groq-configuration' },
                   { text: 'Azure OpenAI', link: '/zh/azure-configuration' },
                   { text: 'DeepSeek', link: '/zh/deepseek-configuration' },
-                  { text: 'Volcengine', link: '/zh/volcengine-configuration' },
-                  { text: 'OpenAI API 兼容服务', link: '/zh/openai-compatible' },
-                  { text: 'Ollama', link: '/zh/ollama' }
+                  { text: '火山引擎', link: '/zh/volcengine-configuration' },
+                  { text: 'OpenAI API 兼容服务', link: '/zh/openai-compatible' }
                 ]
               },
               { text: 'Ollama', link: '/zh/ollama' },
@@ -146,23 +145,23 @@ export default defineConfig({
             ]
           },
           {
-            text: 'PARTNER WITH US',
+            text: '与我们合作',
             collapsed: false,
             items: [
               {
-                text: 'Contact',
-                link: '/contact'
+                text: '联系我们',
+                link: '/zh/contact'
               },
-              { text: 'Media Kit', link: '/media-kit' },
-              // { text: 'Affiliate Program', link: '/affiliate-program' }
+              { text: '媒体工具包', link: '/zh/media-kit' },
+              { text: '联盟计划', link: '/zh/affiliate-program' }
             ]
           },
           {
-            text: 'FAQ',
-            link: '/faq'
+            text: '常见问题',
+            link: '/zh/faq'
           },
           {
-            text: 'Get The App',
+            text: '下载应用',
             link: 'https://botgem.com/#get-the-app'
           },
         ],

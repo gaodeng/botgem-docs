@@ -10,7 +10,7 @@ BotGem integrates with a wide range of AI service providers, giving you access t
 - [Volcengine](/volcengine-configuration)
 - [Azure](/azure-configuration) - OpenAI Series Models
 - [Ollama](/ollama) - Local Models
-- [OpenAI Compatible Services](/openai-compatible-services)
+- [OpenAI Compatible Services](/openai-compatible)
 
 With support for all these providers and more, BotGem gives you unparalleled flexibility to choose the AI models that best suit your needs. Select any provider above to view its detailed configuration guide.
 

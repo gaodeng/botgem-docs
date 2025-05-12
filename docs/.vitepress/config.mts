@@ -40,7 +40,26 @@ export default defineConfig({
       {
         text: 'GUIDES',
         items: [
-          { text: 'Service Providers', link: '/service-providers' },
+          { 
+            text: 'Service Providers', 
+            link: '/service-providers',
+            items: [
+              { text: 'OpenAI', link: '/openai-configuration' },
+              { 
+                text: 'Anthropic (Claude)', 
+                link: '/anthropic-configuration',
+                items: [
+                  { text: 'Extended Thinking Mode', link: '/claude-extended-thinking' }
+                ]
+              },
+              { text: 'Google (Gemini)', link: '/google-configuration' },
+              { text: 'Groq', link: '/groq-configuration' },
+              { text: 'Azure OpenAI', link: '/azure-configuration' },
+              { text: 'DeepSeek', link: '/deepseek-configuration' },
+              { text: 'Volcengine', link: '/volcengine-configuration' },
+              { text: 'OpenAI API Compatible', link: '/openai-compatible' },
+            ]
+          },
           { text: 'Ollama', link: '/ollama' },
           { text: 'AI-Fusion', link: '/ai-fusion' },
         ]
@@ -101,9 +120,29 @@ export default defineConfig({
           {
             text: 'GUIDES',
             items: [
-              { text: 'Service Providers', link: '/service-providers' },
-              { text: 'Ollama', link: '/ollama' },
-              { text: 'AI-Fusion', link: '/ai-fusion' },
+              { 
+                text: 'AI 服务提供商', 
+                link: '/zh/service-providers',
+                items: [
+                  { text: 'OpenAI', link: '/zh/openai-configuration' },
+                  { 
+                    text: 'Anthropic (Claude)', 
+                    link: '/zh/anthropic-configuration',
+                    items: [
+                      { text: '扩展思考模式', link: '/zh/claude-extended-thinking' }
+                    ]
+                  },
+                  { text: 'Google (Gemini)', link: '/zh/google-configuration' },
+                  { text: 'Groq', link: '/zh/groq-configuration' },
+                  { text: 'Azure OpenAI', link: '/zh/azure-configuration' },
+                  { text: 'DeepSeek', link: '/zh/deepseek-configuration' },
+                  { text: 'Volcengine', link: '/zh/volcengine-configuration' },
+                  { text: 'OpenAI API 兼容服务', link: '/zh/openai-compatible' },
+                  { text: 'Ollama', link: '/zh/ollama' }
+                ]
+              },
+              { text: 'Ollama', link: '/zh/ollama' },
+              { text: 'AI-Fusion', link: '/zh/ai-fusion' },
             ]
           },
           {

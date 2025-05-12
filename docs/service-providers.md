@@ -1,20 +1,18 @@
-### How to Enable Extended Thinking Mode for Claude 3.7 Sonnet
+# Extensive AI Service Provider Support
 
-![Claude 3.7 Sonnet Settings Interface](/claude-3.7-sonnet.png){.light-only}
-![Claude 3.7 Sonnet Settings Interface](/claude-3.7-sonnet-dark.png){.dark-only}
+BotGem integrates with a wide range of AI service providers, giving you access to the most powerful AI models available today:
 
-You can enable Extended thinking mode in the chat window by following these steps:
+- [OpenAI](/openai-configuration) - GPT Series Models
+- [Anthropic](/anthropic-configuration) - Claude Series Models
+- [Google](/google-configuration) - Gemini Series Models
+- [Groq](/groq-configuration)
+- [Deepseek](/deepseek-configuration)
+- [Volcengine](/volcengine-configuration)
+- [Azure](/azure-configuration) - OpenAI Series Models
+- [Ollama](/ollama) - Local Models
+- [OpenAI Compatible Services](/openai-compatible-services)
 
-1. Click the **settings icon** in the top right corner of the chat window
-2. Find the **Parameters** input field in the settings panel
-3. Copy the following configuration into **Parameters**:
+With support for all these providers and more, BotGem gives you unparalleled flexibility to choose the AI models that best suit your needs. Select any provider above to view its detailed configuration guide.
 
-```json
-{
-  "max_tokens": 64000,
-  "thinking": {
-    "type": "enabled",
-    "budget_tokens": 16000
-  }
-}
-```
+![Service Providers](/add-service.png){.light-only}
+![Service Providers](/add-service-dark.png){.dark-only}

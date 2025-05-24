@@ -1,6 +1,6 @@
 # Gemini Thinking Mode
 
-This guide explains how to use and customize Gemini's Thinking Mode in BotGem. Thinking Mode is enabled by default for Gemini 2.5 series models, allowing them to perform more complex reasoning and solve challenging tasks.
+Gemini 2.5 series models have thinking capabilities enabled by default, allowing them to perform deeper reasoning and tackle complex problems. Want to make the most of this powerful feature? This guide will show you how to customize and use Gemini's Thinking Mode in BotGem to see the model's reasoning process and get better results.
 
 ## How to Customize Thinking Mode for Gemini 2.5 Models
 

@@ -56,6 +56,7 @@ export default defineConfig({
                 text: 'Google (Gemini)', 
                 link: '/google-configuration',
                 items: [
+                  { text: 'Thinking Mode', link: '/gemini-thinking-mode' },
                   { text: 'Image Generation', link: '/gemini-image-generation' }
                 ]
               },

@@ -143,6 +143,7 @@ export default defineConfig({
                     text: 'Google (Gemini)', 
                     link: '/zh/google-configuration',
                     items: [
+                      { text: '思考模式', link: '/zh/gemini-thinking-mode' },
                       { text: '图像生成', link: '/zh/gemini-image-generation' }
                     ]
                   },
